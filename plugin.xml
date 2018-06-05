@@ -51,7 +51,7 @@
   </platform>
 
   <platform name="android">
-    <dependency id="cordova-support-google-services" version="~1.1.0"/>
+    <framework src="com.google.android.gms:play-services-analytics:11.6.2" />
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="UniversalAnalytics">
