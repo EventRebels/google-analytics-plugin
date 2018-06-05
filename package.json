@@ -1,7 +1,6 @@
 {
-  "name": "cordova-plugin-google-analytics",
   "version": "1.8.3",
-  "description": "Google Universal Analytics Plugin",
+  "name": "cordova-plugin-google-analytics",
   "cordova": {
     "id": "cordova-plugin-google-analytics",
     "platforms": [
@@ -16,24 +15,15 @@
     "url": "https://github.com/heymateaps/google-analytics-plugin"
   },
   "cordova_name":"GoogleAnalyticsPlugin",
+  "description": "Google Universal Analytics Plugin",
+  "license": "MIT",
   "repo": "https://github.com/heymateaps/google-analytics-plugin",
+  "issue": "",
+  "keywords":[],
   "platforms": [
     "android",
     "ios"
-  ],
-  "keywords": [
-    "cordova",
-    "googleanalytics",
-    "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios",
-    "analytics",
-    "google",
-    "universal",
-    "universalanalytics"
-  ],
-  "author": "Dan Wilson",
-  "license": "MIT",
+  ],  
   "engines": [
     {
       "name": "cordova",
