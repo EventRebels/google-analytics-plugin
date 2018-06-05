@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heymateaps/google-analytics-plugin.git"
+    "url": "https://github.com/heymateaps/google-analytics-plugin"
   },
-  "repo": "https://github.com/heymateaps/google-analytics-plugin.git",
+  "repo": "https://github.com/heymateaps/google-analytics-plugin",
   "platforms": [
     "android",
     "ios"
