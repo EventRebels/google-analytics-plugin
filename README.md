@@ -1,15 +1,9 @@
 google-analytics-plugin
 =======================
-[![npm](https://img.shields.io/npm/v/cordova-plugin-google-analytics.svg)](https://www.npmjs.com/package/cordova-plugin-google-analytics)
-[![npm](https://img.shields.io/npm/dt/cordova-plugin-google-analytics.svg?label=npm%20downloads)](https://www.npmjs.com/package/cordova-plugin-google-analytics)
-[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
-Cordova (PhoneGap) 3.0+ Plugin to connect to Google's native Universal Analytics SDK
+# Differences in this Fork 
+Contains updates to prevent errors when using with other Google Play Services plugins
 
-Prerequisites:
-* A Cordova 3.0+ project for iOS, Android, browser (PWA), Windows Phone 8 and/or Windows 10 (UWP)
-* A Mobile App property through the Google Analytics Admin Console
-* (Android) Google Play Services SDK installed via [Android SDK Manager](https://developer.android.com/sdk/installing/adding-packages.html)
 
 # Installing
 
